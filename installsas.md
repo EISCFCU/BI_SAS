@@ -1,7 +1,7 @@
 # SAS Enterprise Guide 8.2 OnDemand for Academics安裝
 
 限windows 作業系統
-如使用mac的同學，請建立一個windows的伺服器
+如使用mac的同學，請建立一個windows作業系統的EC2
 
 
 
