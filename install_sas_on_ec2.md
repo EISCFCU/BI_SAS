@@ -103,3 +103,4 @@ https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-fo
 
 24.選取[儲存]。
 
+25.安裝SAS EG
