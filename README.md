@@ -2,7 +2,7 @@
 
 1.安裝SAS Enterprise Guide 8.2 OnDemand for Academics註冊與安裝：https://github.com/EISCFCU/sas/blob/main/installsas.md
 
-2.SAS EG環境介紹：
+
 
 
 # Optional
