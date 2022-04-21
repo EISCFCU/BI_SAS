@@ -7,4 +7,4 @@
 
 # Optional
 
-1.在EC2安裝SAS Enterprise Guide 8.2 OnDemand for Academics：
+1.在EC2安裝SAS Enterprise Guide 8.2 OnDemand for Academics：https://github.com/EISCFCU/sas/blob/main/install_sas_on_ec2.md
