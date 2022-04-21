@@ -103,4 +103,107 @@ https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-fo
 
 24.選取[儲存]。
 
-25.安裝SAS EG
+#權限設定
+
+
+
+# 安裝SAS EG 8.2
+
+1.搜尋SAS Ondemand for academics
+
+![image](https://user-images.githubusercontent.com/103306835/164397152-a3cc843c-8938-4cbf-a4bc-158d4034dc97.png)
+
+2.點選[Access Now]
+
+![image](https://user-images.githubusercontent.com/103306835/164397262-f1d7bbcd-8249-4ae4-8871-1aa46a117b98.png)
+
+3.輸入帳號密碼 並Sign In
+
+![image](https://user-images.githubusercontent.com/103306835/164397357-4d513e9c-ead5-495f-b0f9-82a46f176362.png)
+
+4.點選[Enrollments]頁籤
+
+![image](https://user-images.githubusercontent.com/103306835/164397461-43cbcf23-61ad-4257-ae71-078b5a1ce6de.png)
+
+5.點選[+enroll in a course]
+
+![image](https://user-images.githubusercontent.com/103306835/164397576-8560bbd3-825c-4130-af88-c35d9733f6a0.png)
+
+6.輸入Course Code 並點選Continue
+Course Code：3ddbdc4f-07d8-48ec-910e-549f9b9a22bd
+
+![image](https://user-images.githubusercontent.com/103306835/164397783-a13240fe-552b-4f1b-8922-79f992c0dea9.png)
+
+7.點選[Applications]
+
+![image](https://user-images.githubusercontent.com/103306835/164397933-a9804336-585c-4fa1-9053-6bbc806c7639.png)
+
+8.點選[SAS Enterprise Guide]
+
+![image](https://user-images.githubusercontent.com/103306835/164398031-88aba4c4-4cf0-4bfc-ad0e-e4e38cfeedcf.png)
+
+9.點選[eguideoda_signed.exe]
+
+![image](https://user-images.githubusercontent.com/103306835/164398131-1262378a-1ff4-41ea-829a-acf3f175d1f9.png)
+
+10.點選[Install]
+
+![image](https://user-images.githubusercontent.com/103306835/164398247-9430a5c2-fa07-46b1-84da-7d4f03dc72e7.png)
+
+11.等待安裝
+
+![image](https://user-images.githubusercontent.com/103306835/164398359-72871750-ed45-40df-be60-01b1c522e1b0.png)
+
+12.等待安裝
+
+![image](https://user-images.githubusercontent.com/103306835/164398493-7cf6b2f4-de99-41e0-bb5b-b7e5229e882e.png)
+
+13.選擇[繁體中文] 並點選[確定]
+
+![image](https://user-images.githubusercontent.com/103306835/164398581-0ad1ce40-fdcf-40d4-90a0-c8a60e94435c.png)
+
+14.查看電腦作業系統位元 並選擇安裝SAS EG模式(64 或32位元)
+
+![image](https://user-images.githubusercontent.com/103306835/164398735-7fc96f5e-5e1c-4153-bafc-d1eecba29427.png)
+
+15.選擇[繁體中文] 並點選[下一步]
+
+![image](https://user-images.githubusercontent.com/103306835/164398826-82ef8f32-51c0-4b23-b58d-384e061c1bbf.png)
+
+16.等待部署
+
+![image](https://user-images.githubusercontent.com/103306835/164398939-3aaa8f28-701e-4fa3-af29-c8ddf4e98875.png)
+
+17.點選[安裝] 會出現下方開始部署的示意圖
+
+![image](https://user-images.githubusercontent.com/103306835/164399038-13260767-99b3-49d9-afa0-68d2c10830d4.png)
+
+18.等待安裝
+
+![image](https://user-images.githubusercontent.com/103306835/164399142-e7a58fac-00c0-46a3-b1d9-6e32fda90086.png)
+
+19.點選[下一步]
+
+![image](https://user-images.githubusercontent.com/103306835/164399256-b5487a7e-9b4e-4bfa-acab-9d29320c0fb7.png)
+
+20.點選[完成]
+
+![image](https://user-images.githubusercontent.com/103306835/164399343-3390777e-8984-4629-9817-800c430ce76d.png)
+
+# SAS Enterprise Guide 8.2 OnDemand for Academics登入
+
+1.開啟SAS Enterprise Guide 8.2 Ondemand for Academic
+
+![image](https://user-images.githubusercontent.com/103306835/164399545-b1d5a1e2-00f7-4009-944d-dcd8d9d6e8ac.png)
+
+2.輸入SAS OnDemand for Academics帳密
+
+![image](https://user-images.githubusercontent.com/103306835/164399665-cc57f430-ab29-4077-8d46-5d40def4cd18.png)
+
+3.驗證中
+
+![image](https://user-images.githubusercontent.com/103306835/164399748-14c4a6e1-2773-42ed-9a5e-e4c837005777.png)
+
+4.可使用SAS Enterprise Guide
+
+![image](https://user-images.githubusercontent.com/103306835/164399849-ad9997c7-036f-4ef1-9106-db601a27a4f0.png)
