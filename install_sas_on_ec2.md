@@ -92,9 +92,14 @@
 https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-for-mac/distribution_groups/all-users-of-microsoft-remote-desktop-for-mac
 
 22.在 [連接中心] 中選取 + ，然後選取 [ 新增遠端資源]。
+
 23.輸入遠端資源的資訊：
-摘要 URL - RD Web 存取伺服器的 URL。 您也可以在此欄位中輸入您的公司電子郵件帳戶，如此會告訴用戶端搜尋與您電子郵件地址相關聯的 RD Web 存取伺服器。
-使用者名稱 - 您要連線的 RD Web 存取伺服器所要使用的使用者名稱。
-密碼 - 您要連線的 RD Web 存取伺服器所要使用的密碼。
-24.選取 \[儲存\]。
+
+摘要 URL-RD Web 存取伺服器的 URL。 您也可以在此欄位中輸入您的公司電子郵件帳戶，如此會告訴用戶端搜尋與您電子郵件地址相關聯的 RD Web 存取伺服器。
+
+使用者名稱-您要連線的 RD Web 存取伺服器所要使用的使用者名稱。
+
+密碼-您要連線的 RD Web 存取伺服器所要使用的密碼。
+
+24.選取[儲存]。
 
