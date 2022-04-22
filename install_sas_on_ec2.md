@@ -4,8 +4,6 @@
 
 # SAS 帳號註冊
 
-# 首次註冊
-
 1.搜尋SAS Ondemand for academics
 
 連結：https://www.sas.com/zh_tw/software/on-demand-for-academics.html
