@@ -2,6 +2,75 @@
 
 適用Learner Lab
 
+# SAS 帳號註冊
+
+# 首次註冊
+
+1.搜尋SAS Ondemand for academics
+
+連結：https://www.sas.com/zh_tw/software/on-demand-for-academics.html
+
+![image](https://user-images.githubusercontent.com/103306835/163938096-8fdface4-3ade-43ee-8f6e-17a24c82a783.png)
+
+2.點選[Access Now]
+
+![image](https://user-images.githubusercontent.com/103306835/163938115-0e51ec7b-2a0f-4684-9677-d23f414c723d.png)
+
+3.點選Sign In
+
+![image](https://user-images.githubusercontent.com/103306835/164383890-12f9c332-f121-4cda-a82a-5c3b146a0467.png)
+
+4.點選[Create Profile]
+
+![image](https://user-images.githubusercontent.com/103306835/164383976-55f4060c-ef08-46d2-88fd-7d714dd1ead3.png)
+
+5.輸入資料
+
+![image](https://user-images.githubusercontent.com/103306835/164384072-f4b433d4-a30d-4be0-887a-8f52c49e6752.png)
+![image](https://user-images.githubusercontent.com/103306835/164384120-6c520f5e-f7b5-44b6-be71-d86960e6812e.png)
+
+6.點選[建立個人認證帳戶]
+
+![image](https://user-images.githubusercontent.com/103306835/164384262-832b3e21-3989-438b-9e58-a545a512c90b.png)
+
+7.完成建立帳戶
+
+![image](https://user-images.githubusercontent.com/103306835/164384311-04359ad9-7811-459b-bd2b-73c87caa3e9e.png)
+
+8.至註冊信箱收信
+
+![image](https://user-images.githubusercontent.com/103306835/164384402-f9d44b82-7380-4041-b170-08b1f7742fb8.png)
+
+9.點選[啟動您的SAS個人資料文件]
+
+![image](https://user-images.githubusercontent.com/103306835/164384444-5e7a9580-4d9c-417d-9051-59b75e0ee098.png)
+
+10.點選[設置密碼]
+
+![image](https://user-images.githubusercontent.com/103306835/164384478-ac772822-6220-432d-b4b2-3a79c45b6fb7.png)
+
+11.點選[繼續]
+
+![image](https://user-images.githubusercontent.com/103306835/164384531-194c0f1b-c3d5-485c-a130-7604462a1273.png)
+
+12.點選[登入]
+
+![image](https://user-images.githubusercontent.com/103306835/164384575-403df8f9-aa2b-477a-8600-3467349191cd.png)
+
+13.點選[登入]
+
+![image](https://user-images.githubusercontent.com/103306835/164384608-1140bc9a-6b1f-4015-90bf-c46d8f2d0b6b.png)
+
+14.輸入使用者名稱
+
+![image](https://user-images.githubusercontent.com/103306835/164384718-7e4eff44-1244-43ea-b31d-689a327ab413.png)
+
+15.點選[下一步]
+
+![image](https://user-images.githubusercontent.com/103306835/164384762-1d32d3d1-aeef-4f89-9dbb-b631cfedf5e0.png)
+
+# SAS ON EC2
+
 1.搜尋EC2
 ![image](https://user-images.githubusercontent.com/103306835/164387469-93348892-c50e-48b3-9506-ff838b90ec16.png)
 
