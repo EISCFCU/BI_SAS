@@ -1,5 +1,7 @@
 # SAS EG on AWS EC2
 
+適用Learner Lab
+
 1.搜尋EC2
 ![image](https://user-images.githubusercontent.com/103306835/164387469-93348892-c50e-48b3-9506-ff838b90ec16.png)
 
