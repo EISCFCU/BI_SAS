@@ -156,7 +156,7 @@
 20.點選[解密密碼]
 
 ![image](https://user-images.githubusercontent.com/103306835/164393055-856697ca-6023-4ace-8458-f6c4c1835941.png)
-
+# for mac 遠端桌面使用(
 21.下載Microsoft Remote Desktop Beta
 https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-for-mac/distribution_groups/all-users-of-microsoft-remote-desktop-for-mac
 
