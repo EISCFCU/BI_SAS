@@ -45,3 +45,22 @@ INSERT INTO "public"."payment" ("id", "name") VALUES ("4","Ubereat");
 INSERT INTO "public"."payment" ("id", "name") VALUES ("5","foodpanda");
 INSERT INTO "public"."payment" ("id", "name") VALUES ("6","easycare");
 ```
+
+```
+CREATE  VIEW "public".posdata AS SELECT area.name AS area,    payment.name AS payment,    pos.orders_total,    pos.s_year,    pos.s_month,    pos.s_day,    pos.s_quarter,    pos.s_hour,    pos.orders_count   FROM pos     LEFT JOIN payment ON pos.name::text = payment.id::text     LEFT JOIN area ON area.id::text = pos.city::text;
+```
+
+
+```
+* Using LIBNAME engine;
+libname AWS_RDS postgres
+ server="database-3.crxpcyzinmjk.us-east-1.rds.amazonaws.com"
+ user="postgres" PW="pass1234" database="lab" schema="public"
+ port=5432;
+
+options sastrace=',,,ds' sastraceloc=saslog nostsuffix ls=64;
+;
+run;
+options sastrace=off;
+
+```
