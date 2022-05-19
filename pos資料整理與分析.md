@@ -1,3 +1,27 @@
+# POS資料存儲與分析
+
+# 情境
+
+ABC飲料店是台灣連鎖知名飲料店，累積開店數約500家，自建POS系統已搬遷到雲端資料庫(postgresql)。
+業務主管小陳想查看2021年各縣市與營業額的資訊。身為資料分析師的你，請進行簡易的資料分析，並提供主管小林一份簡易統計報表。
+
+# POS資料描述
+
+![image](https://user-images.githubusercontent.com/103306835/169325602-ec1517e8-3087-4909-a1b2-071b50f4bbbb.png)
+
+
+# 資料存儲與分析步驟
+
+![image](https://user-images.githubusercontent.com/103306835/169325707-d6f6db58-db45-4c1a-8210-1a310a0f8b8a.png)
+
+# 實作架構
+
+![image](https://user-images.githubusercontent.com/103306835/169325768-a607eb00-6f25-4249-8cba-eca54e910c1d.png)
+
+# 操作步驟
+
+![image](https://user-images.githubusercontent.com/103306835/169325833-78f2025b-5939-41f5-aaf5-4055e56104a4.png)
+
 
 
 
