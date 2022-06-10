@@ -11,4 +11,4 @@
 
 # 其他教學資源
 
-簡易辨識應用(Rekognition)：https://github.com/EISCFCU/s3-reko-dynamodb.md
+簡易辨識應用(Rekognition)：https://github.com/EISCFCU/s3-reko-dynamodb/blob/main/README.md
