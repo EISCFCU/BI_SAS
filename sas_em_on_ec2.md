@@ -129,7 +129,7 @@
 
 ![image](https://user-images.githubusercontent.com/103306835/164391767-a8cffb4c-93af-42b6-a3ac-ca1be24576cf.png)
 
-14.勾選SASEG的虛擬機
+14.勾選SASEM的虛擬機
 
 ![image](https://user-images.githubusercontent.com/103306835/164392013-c48ed38a-dab5-4530-a43f-dcfe63add429.png)
 
@@ -200,7 +200,7 @@ https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-fo
 
 
 
-# 安裝SAS EG 8.2
+# 安裝SAS EM(此時在遠端桌面環境)
 
 1.點選[Access Now]
 
@@ -213,70 +213,91 @@ https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-fo
 
 3.點選[SAS Enterprise Miner]
 
+![image](https://user-images.githubusercontent.com/103306835/172974327-016d9a20-2799-4fac-94a6-aaa209347c4e.png)
 
 
-8.點選[eguideoda_signed.exe]
+4.點選[Configuration]
 
-![image](https://user-images.githubusercontent.com/103306835/164398131-1262378a-1ff4-41ea-829a-acf3f175d1f9.png)
+![image](https://user-images.githubusercontent.com/103306835/172974335-37c0592c-441f-46ef-8176-db24a10cf2b9.png)
+
+5.點選[Here]
+
+![image](https://user-images.githubusercontent.com/103306835/172974371-27597adb-6c15-49ee-a7dd-6d05ac992520.png)
+
+6.點選[JRE for consumers]
+
+![image](https://user-images.githubusercontent.com/103306835/172974542-926b833a-3793-4a4f-93a2-41c5d650820c.png)
+
+7.點選[下載JAVA]
+
+![image](https://user-images.githubusercontent.com/103306835/172974665-4b618971-d456-4f51-b509-3d92aa0a96fc.png)
+
+8.點選[Run]
+
+![image](https://user-images.githubusercontent.com/103306835/172974783-42ea8b98-9673-4a5f-bea4-8d428c9e5ffc.png)
 
 9.點選[Install]
 
-![image](https://user-images.githubusercontent.com/103306835/164398247-9430a5c2-fa07-46b1-84da-7d4f03dc72e7.png)
+![image](https://user-images.githubusercontent.com/103306835/172974842-21814050-3f7b-4c1c-9ecf-9a57f4a3890d.png)
+
 
 10.等待安裝
 
-![image](https://user-images.githubusercontent.com/103306835/164398359-72871750-ed45-40df-be60-01b1c522e1b0.png)
+![image](https://user-images.githubusercontent.com/103306835/172974922-085a1860-f6b4-41f1-97c7-dc86b7e0bfee.png)
 
-11.等待安裝
+11.點選[Close]
 
-![image](https://user-images.githubusercontent.com/103306835/164398493-7cf6b2f4-de99-41e0-bb5b-b7e5229e882e.png)
+![image](https://user-images.githubusercontent.com/103306835/172975003-b312dd5f-94f0-4e56-bf5c-c9b77f5478fe.png)
 
-12.選擇[繁體中文] 並點選[確定]
+12.點選[Main.jnlp]進行安裝
 
-![image](https://user-images.githubusercontent.com/103306835/164398581-0ad1ce40-fdcf-40d4-90a0-c8a60e94435c.png)
+![image](https://user-images.githubusercontent.com/103306835/172975269-3e58ef0d-db92-4043-bc32-fac1039c50e5.png)
 
-13.查看電腦作業系統位元 並選擇安裝SAS EG模式(64 或32位元)
+13.等待安裝
 
-![image](https://user-images.githubusercontent.com/103306835/164398735-7fc96f5e-5e1c-4153-bafc-d1eecba29427.png)
+14.搜尋[Command Prompt]
 
-14.選擇[繁體中文] 並點選[下一步]
+![image](https://user-images.githubusercontent.com/103306835/172975351-d0767e4b-c64c-4f34-b714-1aaeb3d84930.png)
 
-![image](https://user-images.githubusercontent.com/103306835/164398826-82ef8f32-51c0-4b23-b58d-384e061c1bbf.png)
+15.輸入javaws -viewer
 
-15.等待部署
+![image](https://user-images.githubusercontent.com/103306835/172975519-a14e8b9a-e7bd-41d2-a67e-1e21a1b9a38d.png)
 
-![image](https://user-images.githubusercontent.com/103306835/164398939-3aaa8f28-701e-4fa3-af29-c8ddf4e98875.png)
+16.點選SAS EM
 
-16.點選[安裝] 會出現下方開始部署的示意圖
+![image](https://user-images.githubusercontent.com/103306835/172975572-67e0c3b0-360e-4ae8-afa8-6520c5ece627.png)
 
-![image](https://user-images.githubusercontent.com/103306835/164399038-13260767-99b3-49d9-afa0-68d2c10830d4.png)
+17.點選[Run]
 
-17.等待安裝
+![image](https://user-images.githubusercontent.com/103306835/172975613-8d608676-4f3c-4e19-a84a-02f8bd9242c6.png)
 
-![image](https://user-images.githubusercontent.com/103306835/164399142-e7a58fac-00c0-46a3-b1d9-6e32fda90086.png)
+18.成功開啟SAS EM
 
-18.點選[下一步]
+![image](https://user-images.githubusercontent.com/103306835/172975679-9f43b3eb-c7e9-4724-b858-121570229a49.png)
 
-![image](https://user-images.githubusercontent.com/103306835/164399256-b5487a7e-9b4e-4bfa-acab-9d29320c0fb7.png)
 
-19.點選[完成]
+# SAS Enterprise Miner 15.1 OnDemand for Academics檔案上傳
 
-![image](https://user-images.githubusercontent.com/103306835/164399343-3390777e-8984-4629-9817-800c430ce76d.png)
+1.點選SAS Studio
 
-# SAS Enterprise Guide 8.2 OnDemand for Academics登入
+![image](https://user-images.githubusercontent.com/103306835/172975827-64a54c44-4522-4882-8146-ee78fed82afd.png)
 
-1.開啟SAS Enterprise Guide 8.2 Ondemand for Academic
+2.點選檔案
 
-![image](https://user-images.githubusercontent.com/103306835/164399545-b1d5a1e2-00f7-4009-944d-dcd8d9d6e8ac.png)
+![image](https://user-images.githubusercontent.com/103306835/172975867-53fb4ed6-0b8d-476b-8e67-3d3e503f6c1f.png)
 
-2.輸入SAS OnDemand for Academics帳密
+3.點選[檔案上傳]
 
-![image](https://user-images.githubusercontent.com/103306835/164399665-cc57f430-ab29-4077-8d46-5d40def4cd18.png)
+![image](https://user-images.githubusercontent.com/103306835/172975974-5146c4b0-5c4e-4352-b288-a3c672524ecf.png)
 
-3.驗證中
+4.點選[選擇檔案]
 
-![image](https://user-images.githubusercontent.com/103306835/164399748-14c4a6e1-2773-42ed-9a5e-e4c837005777.png)
+![image](https://user-images.githubusercontent.com/103306835/172975998-162b2368-7ef8-42d8-8fd6-5723e76304a5.png)
 
-4.可使用SAS Enterprise Guide
+5.點選[上傳]
 
-![image](https://user-images.githubusercontent.com/103306835/164399849-ad9997c7-036f-4ef1-9106-db601a27a4f0.png)
+![image](https://user-images.githubusercontent.com/103306835/172976140-251c5fe2-928d-44d2-b6fb-39260fc93bb2.png)
+
+# SAS Enterprise Miner 15.1如何找到上傳檔案
+
+![image](https://user-images.githubusercontent.com/103306835/172976389-290940fd-4e43-4c6a-890e-aafcd0cde211.png)
