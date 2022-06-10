@@ -7,3 +7,8 @@
 3.POS資料整理與分析：https://github.com/EISCFCU/BI_SAS/blob/main/pos%E8%B3%87%E6%96%99%E6%95%B4%E7%90%86%E8%88%87%E5%88%86%E6%9E%90.md
 
 4.在EC2安裝SAS Enterprise Miner OnDemand for Academics：https://github.com/EISCFCU/BI_SAS/blob/main/install_sas_em_on_ec2.md
+
+
+# 其他教學資源
+
+簡易辨識應用(Rekognition)：
